@@ -1,5 +1,5 @@
 # ButtonSoftDebouce
-The Project code is based on C++.
-It consists of code for Software based button debouncing.
+The Project code is based on C++, Python.
+This projects objective is to support high accuracy Software based button debouncing for a variety of devices.
 It can differentiate between short, long presses and noise induced irregularities.
-The code has been tested on Microcontrollers like esp32, esp8266 on arduino IDE.
+The code files currently support on Microcontrollers like esp32, esp8266 on arduino IDE and rasberry pi's.
